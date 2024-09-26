@@ -328,7 +328,7 @@ syntax before running a playbook. ` ansible-playbook router_config.yml
 . Run the playbook to setup routing
 +
 ----
-ansible-playbook router-config.yaml
+ansible-playbook router-config.yml
 ----
 
 
